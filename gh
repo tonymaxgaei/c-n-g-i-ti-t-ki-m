@@ -1,0 +1,25 @@
+
+{
+	float pi, t, n, eps, dau;
+	clrscr();
+	printf("Nhap sai so eps=");
+	scanf("%f", &eps);
+
+	pi = 0;
+	t = 4;
+	n = dau = 1;
+
+	do
+	{
+{
+	float pi, t, n, eps, dau;
+	clrscr();
+	printf("Nhap sai so eps=");
+	scanf("%f", &eps);
+
+	pi = 0;
+	t = 4;
+	n = dau = 1;
+
+	do
+	{
